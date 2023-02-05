@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kings College HTML CSS Assignment</title>
+    <link rel="stylesheet" href="./hw.css">
+  </head>
+  <body>
+    <header id="showcase">
+      <h1>Welcome To My <div class="blur">Kakashi</div></h1>
+      <a href="#" class="button">Read More</a>
+    </header>
+    <section id="section-a">
+      <p>
+        Kakashi Hatake is a major character of the Naruto franchise and the leader of Team 7 later known as Team Kakashi. He later returns as one of the main supporting characters in the Boruto: Naruto Next Generations anime/manga series. He is a Jonin who has lived a long while and has gained lots of experience with Jutsus and combat. 
+      </p>
+    </section>
+    <section id="section-b">
+      <p>
+        He is one of the strongest shinobi in the Hidden Leaf Village and can use a wide variety of Jutsu. Such Jutsus that he has are Lightning Blade, Kamui, Fire Style Jutsu which he gains due to his Sharingan and many others. He is the biggest fan of Jiraiya's "Icha Icha" novel. After Kaguya's defeat, the Fifth Hokage Tsunade retired and Kakashi succeeded her as the Sixth Hokage before Naruto. 
+      </p>
+    </section>
+    <section id="section-c">
+      <div class="box-1">
+        Contact me: +977-9840906760
+      </div>
+      <div class="box-2" style="text-decoration: underline;">
+        www.website.com
+      </div>
+      <div class="box-3">
+        Kings College, 2023
+      </div>
+    </section>
+  </body>
+  </html>
